@@ -1,9 +1,15 @@
-# Deploy Strapi to Render
+# Martfury Restfull API - Powerful by Strapi CMS
 
-This is a sample [Strapi](https://strapi.io/) app, configured for deployment to [Render](https://render.com). It uses a SQLite database, which is stored on a [persistent disk](https://render.com/docs/disks) along with uploaded Media Library files.
+Author: nouthemes
+Developed: diaryforlife
 
-Fork this repo and click the button below to deploy.
+Homepage: [Nouthemes](https://themeforest.net/user/nouthemes)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-See the guide at https://render.com/docs/deploy-strapi for more information.
+##NOTE
+**Strapi 3 doesn't support Node 16**
+
+## Credentials
+Email: admin@admin.com
+
+Password: Admin@123
