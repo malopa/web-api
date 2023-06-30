@@ -1,9 +1,9 @@
 {
-  "name": "martfury_strapi",
+  "name": "adrian_strapi",
   "private": true,
   "version": "1.3.0",
   "author": "nouthemes",
-  "description": "Martfury Strapi API ",
+  "description": "Adrian Express Strapi API ",
   "homepage": "https://themeforest.net/item/martfury-multipurpose-marketplace-react-ecommerce-template/25783100",
   "scripts": {
     "dev": "strapi develop",
